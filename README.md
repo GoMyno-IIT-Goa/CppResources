@@ -6,20 +6,28 @@
 
 ## 🛠 Topics
 
-- C++ Language
+- C++ Basics
 - DSA with C++
 
 ---
 
-## Contributing
+## ➕ Contributions 
 
 Contributions are always welcome!
 
 Start a pull request to add resources. Our team will review it and add it to the code base.
 
 ---
-
-## Authors
+  
+## 👩‍💻 Authors 
 
 - [@Adarsh Anand](https://www.github.com/AdarshAnand67)
 - [@Aniket Chaudhri](https://www.github.com/AniketChaudhri)
+- [@MeLio01](https://github.com/MeLio01)
+
+---
+## ✉️ Feedback 
+
+If you have any feedback, please ping - [@KartikeySharma](https://github.com/KartikeySharma)
+
+---
