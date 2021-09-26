@@ -4,7 +4,7 @@ Sample: https://github.com/wncc/DSA-Learning-Series-2021/tree/main/Lecture%200
 
 Reference: https://github.com/CAMP-IIITB/STL-Tutorial
 
-Markdown ref: https://www.markdownguide.org/basic-syntax/#overview
+Markdown ref: https://www.markdownguide.org/basic-syntax/#overview , https://readme.so/
 
 #Suyash
 
