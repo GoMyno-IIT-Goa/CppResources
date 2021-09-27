@@ -1,8 +1,12 @@
+<<!-- Author : Rohith -- >>
+
 ## Binary Exponentiation
 
 Binary exponentiation is a method of computing the power of a number by repeated squaring. It is a very efficient way to compute the power of a number. Time complexity is O(log n).
 
 ```cpp
+/* Rohith */
+
 #include<bits/stdc++.h>
 using namespace std;
 
