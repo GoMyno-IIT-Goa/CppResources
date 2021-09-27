@@ -1,5 +1,5 @@
 <!-- Author: Adarsh Anand -->
-
+```cpp
 ## C++ Sorting
 
 We can sort the elements of an vector using the following algorithms:
@@ -110,4 +110,10 @@ Sort in : ascending order, descending order,custom order
 
     }
 
+STL sort() function is a sorting algorithm that uses a comparison predicate to compare two elements.
+
+Time Complexity: O(n log n) 
+Most sorting algorithms are O(n log n) in the worst case.
+
+Similarly we can use Sorting algorithms in other data types such as vector<pair<int, int>> , map<int, int> and multimap<int, int> , set<int> and multiset<int> etc.
 ```
