@@ -24,7 +24,7 @@ int main(){
             }
         }
     }
-    
+
 // The above vector will contain lowest prime factor of the number
 for(int i=0;i<N;++i){
     lowest_prime_factor[i] = i;
@@ -39,3 +39,4 @@ for(int i=2;i*i<N;++i){
     return 0;
 }
 
+```
