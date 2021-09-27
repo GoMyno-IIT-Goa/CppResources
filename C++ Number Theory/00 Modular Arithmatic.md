@@ -1,10 +1,12 @@
+<<!-- Author : Rohith-->>
+
 ## Modular Arithmatic
 
 Modular arithmatic is a technique for solving problems that involve arithmetic on numbers that are not necessarily in the range of a normal integer.
 Quite often, the numbers involved are very large, and the arithmetic is done modulo a large number.
 
 ```cpp
-
+/* Rohith */
 //Modular Arithmatic functions
 
 #include<bits/stdc++.h>
