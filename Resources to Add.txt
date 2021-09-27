@@ -1,0 +1,51 @@
+CPP
+
+Sample: https://github.com/wncc/DSA-Learning-Series-2021/tree/main/Lecture%200
+
+Reference: https://github.com/CAMP-IIITB/STL-Tutorial
+
+Markdown ref: https://www.markdownguide.org/basic-syntax/#overview , https://readme.so/
+
+#Suyash
+
+1. HelloWorld
+   I/O
+   
+2. Variables/data types/operator
+3. if/else
+4. for /while loops
+   Time/space complexity
+5. functions
+6. strings
+7. arrays + 2D arrays
+
+#Adarsh---
+8. stl
+	vectors
+	sets
+	maps
+9. algorithms
+	sorting
+	searching
+	
+	
+#rohith----
+
+  number theory	
+	gcd
+	ncr
+	seive
+	binary exponentiation
+	modInverse
+	factorial
+	
+#Aniket----
+  Common Techniques:
+	2 pointers
+	Sliding Window
+	Binary Search
+	Greedy
+	Bit Manipulation
+	
+	
+	
