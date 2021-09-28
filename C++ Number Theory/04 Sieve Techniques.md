@@ -2,7 +2,7 @@
 
 ## Sieve Technique
 
-Sieve is a technique used to find all the prime in numbers upto 10^7 in O(log(logN)) Time complexity.
+Sieve is a technique used to find all the prime in numbers upto 10^7 in O(Nlog(logN)) Time complexity.
 
 It is not only used for finding whether a number is prime, but also to find the lowest prime factor prime factor of a number and much more
 
